@@ -16,3 +16,15 @@ The application has been created using the GUI library Tkinter and SQLite. It co
 ### The "Database" tab:
     o View the list of questions and their answers.
     o Addition/Removal of custom questions and answers.
+    
+## Preview:
+
+### "Game" tab:
+<p>
+    <img src='./readme_images/game_tab.png'/>
+</p>
+
+### "Database" tab:
+<p>
+    <img src='./readme_images/database_tab.png'/>
+</p>
